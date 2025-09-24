@@ -1,4 +1,7 @@
-//Century From Year
+// Grupp 8. Mårten, Delzar, Ana Maria
+
+//Century From Year https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+
 /*Introduction
 The first century spans from the year 1 up to and including the year 100, the second century - from the year 101 up to and including the year 200, etc.
 
@@ -16,7 +19,10 @@ Given a year, return the century it is in.*/
 //Returnerar århundrade
 
 
-//Who ate the cookie?
+
+//Grupp 10. Najah, David, Ana Maria 
+
+//Who ate the cookie? https://www.codewars.com/kata/55a996e0e8520afab9000055
 
 /* Description :
  For this problem you must create a program that says who ate the last cookie. 
